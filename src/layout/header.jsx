@@ -1,5 +1,5 @@
 function Header() {
-    return <nav className="salmon accent-1">
+    return <nav className="orange accent-2">
     <div className="container">
         <div className="nav-wrapper">
             <a href="!#" class="brand-logo center">React Movies</a>
